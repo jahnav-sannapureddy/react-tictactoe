@@ -9,5 +9,5 @@ To get started clone this repo
 
 ## Mobile
 <div align="center">
-<img alt="mobile" src="https://raw.githubusercontent.com/jahnav-sannapureddy/react-tictactoe/main/tic-tac-toe/public/assets/mobile.png" style="max-width: 200px;">
+<img alt="mobile" src="https://raw.githubusercontent.com/jahnav-sannapureddy/react-tictactoe/main/tic-tac-toe/public/assets/mobile.png" style="width:20%x;">
 </div>
