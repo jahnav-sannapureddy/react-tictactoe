@@ -8,6 +8,4 @@ To get started clone this repo
 ![full screen desktop](https://raw.githubusercontent.com/jahnav-sannapureddy/react-tictactoe/main/tic-tac-toe/public/assets/full%20screen.png)
 
 ## Mobile
-<div align="center">
-<img alt="mobile" src="https://raw.githubusercontent.com/jahnav-sannapureddy/react-tictactoe/main/tic-tac-toe/public/assets/mobile.png" style="width:20%x;">
-</div>
+<img alt="mobile" src="https://raw.githubusercontent.com/jahnav-sannapureddy/react-tictactoe/main/tic-tac-toe/public/assets/mobile.png" style="width:30%;">
